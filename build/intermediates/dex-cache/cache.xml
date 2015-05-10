@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/chentaishan/Documents/AndroidStudioWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/chentaishan/Documents/AndroidStudioWorkSpace/MyApplication/app/build/intermediates/pre-dexed/debug/classes-d9bdef42775c0bdc2844cf9088b8597b336f3092.jar" />
+    </item>
+    <item
+        jar="/Users/chentaishan/Documents/AndroidStudioWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/chentaishan/Documents/AndroidStudioWorkSpace/MyApplication/app/build/intermediates/pre-dexed/debug/classes-d7cd6802657b7c6b009fbdd462653151e3a2856e.jar" />
+    </item>
+    <item
+        jar="/Users/chentaishan/Documents/AndroidStudioWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/chentaishan/Documents/AndroidStudioWorkSpace/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-773af55162dd2d3e1d03e947e54a466d1c755f57.jar" />
+    </item>
+    <item
+        jar="/Users/chentaishan/Documents/CTS/android-sdk_r24.0.1-macosx/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/chentaishan/Documents/AndroidStudioWorkSpace/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-561fddb24b99da7a88a99ebe445bef32490f78c1.jar" />
+    </item>
+
+</items>
